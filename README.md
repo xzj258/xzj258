@@ -1,9 +1,10 @@
-## Hi there 👋
+# 实迷途其未远
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzj258)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=xzj258)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzj258&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
